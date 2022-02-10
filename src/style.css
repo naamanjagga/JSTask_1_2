@@ -1,0 +1,45 @@
+.main_div {
+    font-size: 1.2em;
+    margin: 7em;
+}
+
+}
+.div_1 , .div_2 {
+    padding-top: 3em;
+}
+.div_5 {
+    margin-left: ;
+}
+.input_1 {
+    margin-left: 1.78em;
+}
+.input_2 {
+    margin-left: 2em;
+    margin-top: 1em;
+}
+.input_1 , .input_2 {
+    border: 2px solid black;
+	border-radius: 5px;
+	padding: .25em .7em;
+	text-align: center;
+    display: inline-block;
+	font-size: 200%;
+
+}
+.click_me {
+    background-color: gray;
+    margin-top: 2em;
+    margin-left: 14.5em;
+    margin-bottom: 7em;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 5em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.output_1 {
+    margin-bottom: 2em;
+}
